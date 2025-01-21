@@ -1,0 +1,5 @@
+entity\Entrada.class
+entity\Evento.class
+repository\ClienteRepository.class
+entity\Cliente.class
+com\ticket\ticketpary\TicketparyApplication.class
